@@ -1,48 +1,33 @@
-# This is your [AngularAttack](https://www.angularattack.com) 2016 Repo
+## Evil portal
 
-This repo is the start of your AngularAttack 2016 entry. It contains the simple [Angular2 starter](https://angular.io/docs/ts/latest/quickstart.html) files.
+Evil portal is a simple game created for the 2016 Angular Attack competition, written using the Angular 2.0 framework. It is written in Typescript and deployed using Surge.
+The interwebs are being attack by Angular creatures! Anything that is not Angular will be eaten and destroyed! That is where you come in. You must use your mouse to protect your elements from the Angular bugs before they eat all the things!
+Click on the bugs to squash them! And once the bugs are squashed, destroy their base!! All their base are belong to you and you can rule the internet (or at least one webpage)!!!1!
 
-**DO NOT MAKE ANY CODE CHECKINS TO THIS REPOSITORY BEFORE THE COMPETITION OFFICIALLY BEGINS.**
+## Demo Page
+Tested only in Chrome. Sorry! 
+Visit our demo page at <a href="http://200ok.2016.angularattack.io/" target="_blank">http://200ok.2016.angularattack.io/</a>. Try it for yourself and have some fun!! Stop the bugs from destroying the interwebs!!!1! 
 
-**DOING SO COULD DISQUALIFY YOU.**
+## Motivation
 
+Our team, 200OK, wanted to learn what Angular 2.0 is all about, and have some fun creating something cool while we were at it. We thought creating a game would be cool, but we had to create something that would be doable within the timespan of 48 hours. That's where we came up with Angulator--a game where tiny Angular creatures attack your webpage. Ideally, our concept was too attack poorly written and invalid elements, but since we only had a limited amount of time, we decided to have them attack the whole webpage! Anything that isn't Angular must die!
 
-However, before the competition starts, there are some things we encourage you to do to get prepared for the competition.
+## Installation
 
+Want to run our project locally? Just clone our git repository on your local machine, and install nodejs & npm to get it running.
+See the [Angular 2.0 Quickstart](https://angular.io/docs/ts/latest/quickstart.html) for instructions on how to set up and run an Angular app. Besides that, there is not set up needed!
 
-### Step 1) Get Your Local Environment setup
+## Contributors
 
-Clone this repo locally, and make sure all your team members have access to it.
+[Mikhail Vazhenin](https://github.com/MikeVaz)
 
-* Install the latest [Node / NPM](https://nodejs.org).
+[Wasim Pathan](https://github.com/wasimpathan5)
 
-* `git clone git@github.com:rumblex/angularattack2016-200ok.git`
+[Mike Young](https://github.com/orofbrown)
 
-* `cd angularattack2016-200ok`
+## License
 
-* `npm install`
-
-* `npm start` will start the server locally to test that everything is running correctly
-
-
-### Step 2) Deploy Your App
-
-While you can't make any checkins before the comp, what you **can** do right now is deploy this sample app to [Surge](https://surge.sh) (our competition hosting provider).
-
-* `npm install -g surge`
-
-* `surge .`
-
-Note: please do not remove the `CNAME` file, as that tells it where to deploy to.
-
-If you receive an error message `"You do not have permission to publish to 200ok.2016.angularattack.io"`, it might mean another team member has already deployed your project to Surge. Ask them to run the next step to give you access.
-
-### Step 3) Add Your Team Members to Surge
-
-* `surge . --add wasimpathan5@yahoo.com,michael.young.1124@gmail.com,webrealizer@gmail.com`
+We ain't got no license. Use this game at your own risk.
 
 
-### Step 4) Wait til competition starts
-
-It begins at exactly [May 14 at 00:00 UTC](https://www.wolframalpha.com/input/?i=May+14,+2016+0:00+UTC). Once the competition starts,   you can write over this project.
 
